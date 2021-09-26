@@ -3,7 +3,7 @@
 
 🌱 Atualmente, estou aprendendo C Sharp
 
-<div align="center">
+<div >
   <a href="https://github.com/Shinibak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shinibak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinibak&layout=compact&langs_count=7&theme=dark"/>
