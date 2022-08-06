@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-🌱 Atualmente, estou aprendendo C Sharp
+🌱 Atualmente, estou aprendendo Flutter
 
 <div align="center">
   <a href="https://github.com/Shinibak">
